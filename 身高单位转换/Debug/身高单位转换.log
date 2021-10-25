@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\asustx\source\repos\身高单位转换\身高单位转换\源.cpp(5,2): error C2065: “usingnamespace”: 未声明的标识符
+C:\Users\asustx\source\repos\身高单位转换\身高单位转换\源.cpp(5,17): error C2146: 语法错误: 缺少“;”(在标识符“std”的前面)
+C:\Users\asustx\source\repos\身高单位转换\身高单位转换\源.cpp(5,20): error C2882: “std”: 在表达式中非法使用命名空间标识符
